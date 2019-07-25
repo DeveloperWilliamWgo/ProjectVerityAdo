@@ -1,2 +1,0 @@
-# ProjectDotNet
-Solicitado pela empresa
