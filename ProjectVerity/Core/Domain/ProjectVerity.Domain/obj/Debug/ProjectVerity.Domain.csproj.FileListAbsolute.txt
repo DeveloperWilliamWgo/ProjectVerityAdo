@@ -1,0 +1,6 @@
+C:\Exame\Will\Fonte\ProjectVerity\Core\Domain\ProjectVerity.Domain\bin\Debug\ProjectVerity.Domain.dll
+C:\Exame\Will\Fonte\ProjectVerity\Core\Domain\ProjectVerity.Domain\bin\Debug\ProjectVerity.Domain.pdb
+C:\Exame\Will\Fonte\ProjectVerity\Core\Domain\ProjectVerity.Domain\obj\Debug\ProjectVerity.Domain.csprojAssemblyReference.cache
+C:\Exame\Will\Fonte\ProjectVerity\Core\Domain\ProjectVerity.Domain\obj\Debug\ProjectVerity.Domain.csproj.CoreCompileInputs.cache
+C:\Exame\Will\Fonte\ProjectVerity\Core\Domain\ProjectVerity.Domain\obj\Debug\ProjectVerity.Domain.dll
+C:\Exame\Will\Fonte\ProjectVerity\Core\Domain\ProjectVerity.Domain\obj\Debug\ProjectVerity.Domain.pdb
